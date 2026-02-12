@@ -1,7 +1,0 @@
-userId,username,password,fullName,email,role,extraInfo
-ADM001,admin,admin123,Juan Santos,admin@crems.edu,ADMIN,Engineering Lab|Lab Technician
-STU001,student1,pass123,Pedro Cruz,pedro@student.crems.edu,STUDENT,2022-001|Computer Engineering|2
-STU002,student2,pass456,Maria Reyes,maria@student.crems.edu,STUDENT,2022-002|Electrical Engineering|2
-STU999,testuser,test123,Test User,test@test.com,STUDENT,2024-999|Test Program|1
-DUP001,user1,pass,User One,user1@test.com,STUDENT,2024-001|CE|1
-VAL001,valuser,pass,Validation User,val@test.com,STUDENT,2024-VAL|CE|1

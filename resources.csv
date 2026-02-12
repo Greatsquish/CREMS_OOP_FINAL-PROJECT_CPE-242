@@ -1,6 +1,0 @@
-resourceId,name,category,status,maxUsageTime,extraInfo
-RES999,Test Equipment,Equipment,Available,60,TestCorp|TEST-001
-TEST001,Test,Equipment,Available,60,Test|001
-ROOM001,Test Room,Room,Available,120,T-101|20
-AVL001,Available,Equipment,Reserved,60,T|1
-AVL002,Available2,Equipment,Available,60,T|2
